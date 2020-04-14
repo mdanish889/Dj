@@ -1,0 +1,19 @@
+
+
+
+<resources>
+<string name="app_name">DJcalculator</string>
+<string name="TX1">Enter the 1st number</string>
+
+<string name="TX2">Enter the 2nd number</string>
+<string name="mul">*</string>
+
+<string name="Add">+</string>
+<string name="sub">-</string>
+
+<string name="div">/</string>
+<string name="result">RESULT IS</string>
+    <string name="plz_enter_value_one">enter first number</string>
+    <string name="plz_enter_value_two">enter second number</string>
+
+</resources>
